@@ -1,2 +1,2 @@
 # EventKeyCodes
-The tool for showing off the JS Event key codes.
+A too for showing off the JS Event key codes.
