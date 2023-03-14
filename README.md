@@ -1,4 +1,5 @@
-# EventKeyCodes
+# EventKeyCodes[![Live on Github Pages](https://raw.githubusercontent.com/Nihilnia/GithubBadges/d789604b7dce1b979d009e0751f7d4a26c07a2f9/liveOnGitHubPages.svg)](https://nihilnia.github.io/EventKeyCodes)
+![](https://raw.githubusercontent.com/Nihilnia/ProjectsGifs/main/Event%20Key%20Codes.gif)<br/>
 
 EventKeyCodes is a simple JavaScript web application that displays the key code and key value of any key pressed on the keyboard. It is designed to be a simple tool for developers who need to quickly look up key codes and values when working with keyboard events.
 
