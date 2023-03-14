@@ -18,6 +18,6 @@ If you would like to contribute to EventKeyCodes, please feel free to fork the r
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nihilnia/TodoList/blob/main/LICENSE.md) file for details.<br/>
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Nihilnia/EventKeyCodes/blob/main/LICENSE.md) file for details.<br/>
 Feel free to use and modify the code as needed.<br/>
 [![License - MIT](https://img.shields.io/badge/License-MIT-8CB904)](https://choosealicense.com/licenses/mit/)
