@@ -5,7 +5,7 @@ EventKeyCodes is a simple JavaScript web application that displays the key code 
 ## Getting Started
 
 To use EventKeyCodes, simply download or clone the repository and open the `index.html` file in your browser.<br/>
-Alternatively, you can [view the live demo](https://nihilnia.github.io/EventKeyCodes/) hosted on GitHub Pages.
+Alternatively, you can [view the live demo](https://nihilnia.github.io/EventKeyCodes) hosted on GitHub Pages.
 
 ## Usage
 
